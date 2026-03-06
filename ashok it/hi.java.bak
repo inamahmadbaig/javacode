@@ -1,0 +1,15 @@
+class hi 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(5*5);
+		System.out.println("hii i am inam ahmad baig");
+		System.out.println("\t1998");
+		//System.out.println("\a");
+		System.out.println(5+5);
+		System.out.println(5*5);
+		System.out.println(25/5);
+		System.out.println(25%5);
+		
+	}
+}
